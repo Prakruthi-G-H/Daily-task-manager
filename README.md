@@ -3,7 +3,7 @@
 A simple and interactive daily task management app built using **HTML**, **CSS**, and **JavaScript**.
 
 ## Live Demo Link
-Daily Task Manager - [Live Demo](https://prakruthi-g-h.github.io/BMW-Homepage-Clone/)
+Daily Task Manager - [Live Demo](https://prakruthi-g-h.github.io/Daily-task-manager/)
 
 ## 🛠️ Tech Stack Used 
 - HTML – Structure of the app
