@@ -9,7 +9,7 @@ Daily Task Manager - [Live Demo](https://prakruthi-g-h.github.io/Daily-task-mana
 
 - **HTML5** — Structure and content of the web page 
 - **CSS3** — Styling, layout, and animations  
-- JavaScript – DOM Manipulation for dynamic updates
+- **JavaScript (ES6)** — Dynamic functionality and DOM manipulation 
 
 
 ## 📁 Project Structure
